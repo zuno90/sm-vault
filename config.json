@@ -1,0 +1,8 @@
+{
+    "dev": {},
+    "bsc-testnet": {
+        "Dads": "0xfa461B9C50c344142b768215756b467543A26f49",
+        "Vault": "0xD002D30Cc5b6F032A79246E91B1791AB4eE04afd"
+    },
+    "main": {}
+}
