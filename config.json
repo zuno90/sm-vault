@@ -2,7 +2,10 @@
     "dev": {},
     "bsc-testnet": {
         "Dads": "0xfa461B9C50c344142b768215756b467543A26f49",
-        "Vault": "0xD002D30Cc5b6F032A79246E91B1791AB4eE04afd"
+        "Vault": "0xD002D30Cc5b6F032A79246E91B1791AB4eE04afd",
+        "USDT": "0x6b9819B685f97fD0BC3c253d2ea9B6cBa95c6397",
+        "DadsCrowdSale": "0xfAC78ad54b406604FB273c0b25a6f065Dde30660",
+        "DadsCS": "0x3350F715358459B42286b0E6D49EE493533585DF"
     },
     "main": {}
 }

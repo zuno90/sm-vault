@@ -8,7 +8,7 @@ import "hardhat/console.sol";
 
 contract Dads is ERC20("Dads Token", "DADS"), ERC20Burnable, Ownable
 {
-    uint256 private cap = 50_000_000_000 * 10**uint256(18);
+    uint256 private cap = 50_000_000_000 * 10**decimals();
     constructor() {
         _mint(msg.sender, cap);
         transferOwnership(msg.sender);
